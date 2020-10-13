@@ -281,7 +281,7 @@ ModelImporter:
     second: "\u8759\u8760\u653B\u64CA"
   - first:
       74: 7400006
-    second: bat_damage
+    second: "\u8759\u8760\u53D7\u50B7"
   - first:
       74: 7400008
     second: "\u8759\u8760\u6B7B\u4EA1"
@@ -688,7 +688,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: bat_damage
+      name: "\u8759\u8760\u53D7\u50B7"
       takeName: Take 001
       internalID: 0
       firstFrame: 110
